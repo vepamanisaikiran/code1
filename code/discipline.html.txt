@@ -1,0 +1,33 @@
+<html>
+<body>
+<div class="container">
+<section class="pillars">
+<div class="six-col">
+<div class="col">
+<h3>CIVIL ENGINEERING</h3>
+<img src="" alt="">
+<p></p>
+</div>
+<div class="col">
+<h3>MECHANICAL ENGINEERING</h3>
+<img src="" alt="">
+<p></p>
+</div><div class="col">
+<h3>ELECTICAL AND ELECTRONICS ENGINEERING</h3>
+<img src="" alt="">
+<p></p>
+</div><div class="col">
+<h3>ELECTRONICS AND COMMUNICATIONS ENGINEERING</h3>
+<img src="" alt="">
+<p></p>
+</div><div class="col">
+<h3>COMPUTER SCIENCE AND ENGINEERING</h3>
+<img src="" alt="">
+<p></p>
+</div><div class="col">
+<h3>CHEMICAL ENGINEERING</h3>
+<img src="" alt="">
+<p></p>
+</div>
+</body>
+</html>
